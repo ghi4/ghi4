@@ -2,9 +2,9 @@
 
 My name is Dhimas Fajar and here's what i have made:
 
-https://github.com/ghi4/dhi-movie
+#1 Movie Catalogue: https://github.com/ghi4/dhi-movie
 
-https://github.com/ghi4/SClean
+#2 Laundry App: https://github.com/ghi4/SClean
 
 [![ghi4's github stats](https://github-readme-stats.vercel.app/api?username=ghi4&theme=blue-green)](https://github.com/ghi4/github-readme-stats)
 
