@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Dhimas Fajar and here's what i have made:
+
+https://github.com/ghi4/dhi-movie
+https://github.com/ghi4/SClean
+
 [![ghi4's github stats](https://github-readme-stats.vercel.app/api?username=ghi4&theme=blue-green)](https://github.com/ghi4/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ghi4&theme=blue-green)
